@@ -1,0 +1,5402 @@
+[
+    {
+        "message_id": "MSG_0001",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0002",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0003",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0004",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0005",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0006",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0007",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0008",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0009",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0010",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0011",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0012",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0013",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0014",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0015",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0016",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0017",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0018",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0019",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0020",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0021",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0022",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0023",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0024",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0025",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0026",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0027",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0028",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0029",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0030",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0031",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0032",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0033",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0034",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0035",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0036",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0037",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0038",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0039",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0040",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0041",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0042",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0043",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0044",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0045",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0046",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0047",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0048",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0049",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0050",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0051",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0052",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0053",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0054",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0055",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0056",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0057",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0058",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0059",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0060",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0061",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0062",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0063",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0064",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0065",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0066",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0067",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0068",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0069",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0070",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0071",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0072",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0073",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0074",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0075",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0076",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0077",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0078",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0079",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0080",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0081",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0082",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0083",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0084",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0085",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0086",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0087",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0088",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0089",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0090",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0091",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0092",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0093",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0094",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0095",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0096",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0097",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0098",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0099",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0100",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0101",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0102",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0103",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0104",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0105",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0106",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0107",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0108",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0109",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0110",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0111",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0112",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0113",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0114",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0115",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0116",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0117",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0118",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0119",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0120",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0121",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0122",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0123",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0124",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0125",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0126",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0127",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0128",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0129",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0130",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0131",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0132",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0133",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0134",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0135",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0136",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0137",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0138",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0139",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0140",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0141",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0142",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0143",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0144",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0145",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0146",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0147",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0148",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0149",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0150",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0151",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0152",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0153",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0154",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0155",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0156",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0157",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0158",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0159",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0160",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0161",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0162",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0163",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0164",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0165",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0166",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0167",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0168",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0169",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0170",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0171",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0172",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0173",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0174",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0175",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0176",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0177",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0178",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0179",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0180",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0181",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0182",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0183",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0184",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0185",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0186",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0187",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0188",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0189",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0190",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0191",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0192",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0193",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0194",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0195",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0196",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0197",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0198",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0199",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0200",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0201",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0202",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0203",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0204",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0205",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0206",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0207",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0208",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0209",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0210",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0211",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0212",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0213",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0214",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0215",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0216",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0217",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0218",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0219",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0220",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0221",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0222",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0223",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0224",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0225",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0226",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0227",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0228",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0229",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0230",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0231",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0232",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0233",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0234",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0235",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0236",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0237",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0238",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0239",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0240",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0241",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0242",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0243",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0244",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0245",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0246",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0247",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0248",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0249",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0250",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0251",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0252",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0253",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0254",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0255",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0256",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0257",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0258",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0259",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0260",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0261",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0262",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0263",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0264",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0265",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0266",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0267",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0268",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0269",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0270",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0271",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0272",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0273",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0274",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0275",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0276",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0277",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0278",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0279",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0280",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0281",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0282",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0283",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0284",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0285",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0286",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0287",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0288",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0289",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0290",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0291",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0292",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0293",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0294",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0295",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0296",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0297",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0298",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0299",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0300",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0301",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0302",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0303",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0304",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0305",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0306",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0307",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0308",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0309",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0310",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0311",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0312",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0313",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0314",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0315",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0316",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0317",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0318",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0319",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0320",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0321",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0322",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0323",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0324",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0325",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0326",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0327",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0328",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0329",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0330",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0331",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0332",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0333",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0334",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0335",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0336",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0337",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0338",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0339",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0340",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0341",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0342",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0343",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0344",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0345",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0346",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0347",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0348",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0349",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0350",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0351",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0352",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0353",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0354",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0355",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0356",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0357",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0358",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0359",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0360",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0361",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0362",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0363",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0364",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0365",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0366",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0367",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0368",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0369",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0370",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0371",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0372",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0373",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0374",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0375",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0376",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0377",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0378",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0379",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0380",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0381",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0382",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0383",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0384",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0385",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0386",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0387",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0388",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0389",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0390",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0391",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0392",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0393",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0394",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0395",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0396",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0397",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0398",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0399",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0400",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0401",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0402",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0403",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0404",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0405",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0406",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0407",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0408",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0409",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0410",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0411",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0412",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0413",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0414",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0415",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0416",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0417",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0418",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0419",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0420",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0421",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0422",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0423",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0424",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0425",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0426",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0427",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0428",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0429",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0430",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0431",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0432",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0433",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0434",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0435",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0436",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0437",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0438",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0439",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0440",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0441",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0442",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0443",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0444",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0445",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0446",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0447",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0448",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0449",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0450",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0451",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0452",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0453",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0454",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0455",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0456",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0457",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0458",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0459",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0460",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0461",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0462",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0463",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0464",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0465",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0466",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0467",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0468",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0469",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0470",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0471",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0472",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0473",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0474",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0475",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0476",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0477",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0478",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0479",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0480",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0481",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0482",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0483",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0484",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0485",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0486",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0487",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0488",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0489",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0490",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0491",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0492",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0493",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0494",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0495",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0496",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0497",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0498",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0499",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0500",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0501",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0502",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0503",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0504",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0505",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0506",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0507",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0508",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0509",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0510",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0511",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0512",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0513",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0514",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0515",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0516",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0517",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0518",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0519",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0520",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0521",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0522",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0523",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0524",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0525",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0526",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0527",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0528",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0529",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0530",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0531",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0532",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0533",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0534",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0535",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0536",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0537",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0538",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0539",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0540",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0541",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0542",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0543",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0544",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0545",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0546",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0547",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0548",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0549",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0550",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0551",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0552",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0553",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0554",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0555",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0556",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0557",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0558",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0559",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0560",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0561",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0562",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0563",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0564",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0565",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0566",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0567",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0568",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0569",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0570",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0571",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0572",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0573",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0574",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0575",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0576",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0577",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0578",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0579",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0580",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0581",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0582",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0583",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0584",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0585",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0586",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0587",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0588",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0589",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0590",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0591",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0592",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0593",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0594",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0595",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0596",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0597",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0598",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0599",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0600",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0601",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0602",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0603",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0604",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0605",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0606",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0607",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0608",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0609",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0610",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0611",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0612",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0613",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0614",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0615",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0616",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0617",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0618",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0619",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0620",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0621",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0622",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0623",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0624",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0625",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0626",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0627",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0628",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0629",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0630",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0631",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0632",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0633",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0634",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0635",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0636",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0637",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0638",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0639",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0640",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0641",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0642",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0643",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0644",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0645",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0646",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0647",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0648",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0649",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0650",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0651",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0652",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0653",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0654",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0655",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0656",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0657",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0658",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0659",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0660",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0661",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0662",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0663",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0664",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0665",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0666",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0667",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0668",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0669",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0670",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0671",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0672",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0673",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0674",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0675",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0676",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0677",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0678",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0679",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0680",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0681",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0682",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0683",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0684",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0685",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0686",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0687",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0688",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0689",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0690",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0691",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0692",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0693",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0694",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0695",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0696",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0697",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0698",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0699",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0700",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0701",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0702",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0703",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0704",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0705",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0706",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0707",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0708",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0709",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0710",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0711",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0712",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0713",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0714",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0715",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0716",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0717",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0718",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0719",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0720",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0721",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0722",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0723",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0724",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0725",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0726",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0727",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0728",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0729",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0730",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0731",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0732",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0733",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0734",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0735",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0736",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0737",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0738",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0739",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0740",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0741",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0742",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0743",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0744",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0745",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0746",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0747",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0748",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0749",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0750",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0751",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0752",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0753",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0754",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0755",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0756",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0757",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0758",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0759",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0760",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0761",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0762",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0763",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0764",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0765",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0766",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0767",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0768",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0769",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0770",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0771",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0772",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0773",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0774",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0775",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0776",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0777",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: passwords"
+    },
+    {
+        "message_id": "MSG_0778",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0779",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0780",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0781",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0782",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0783",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0784",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0785",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0786",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0787",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0788",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0789",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0790",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0791",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0792",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0793",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0794",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0795",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0796",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0797",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0798",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0799",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0800",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0801",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0802",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0803",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0804",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0805",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0806",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0807",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0808",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0809",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0810",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0811",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0812",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0813",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0814",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0815",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0816",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0817",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0818",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0819",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0820",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0821",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0822",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0823",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0824",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0825",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0826",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0827",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0828",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0829",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0830",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0831",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0832",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0833",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0834",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0835",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0836",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0837",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0838",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0839",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0840",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0841",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0842",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0843",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0844",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0845",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0846",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0847",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0848",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0849",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0850",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0851",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0852",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0853",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0854",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0855",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0856",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0857",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0858",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0859",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0860",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0861",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0862",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0863",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0864",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0865",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0866",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0867",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0868",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0869",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0870",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0871",
+        "category": "Meeting or Event",
+        "confidence": 0.9,
+        "reason": "Scheduling keywords detected."
+    },
+    {
+        "message_id": "MSG_0872",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0873",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0874",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0875",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0876",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0877",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0878",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0879",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0880",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0881",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0882",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0883",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0884",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0885",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0886",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0887",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0888",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0889",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0890",
+        "category": "Sensitive Information",
+        "confidence": 0.95,
+        "reason": "Detected high-risk information: bank_details"
+    },
+    {
+        "message_id": "MSG_0891",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0892",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0893",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0894",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0895",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0896",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0897",
+        "category": "Promotional",
+        "confidence": 0.92,
+        "reason": "Marketing/sales terms detected."
+    },
+    {
+        "message_id": "MSG_0898",
+        "category": "Action Required",
+        "confidence": 0.88,
+        "reason": "Imperative verbs/tasks detected."
+    },
+    {
+        "message_id": "MSG_0899",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    },
+    {
+        "message_id": "MSG_0900",
+        "category": "General Information",
+        "confidence": 0.6,
+        "reason": "No strong matching categories."
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "message_id": "MSG_0001",
+        "original_message_masked": "For today: Calendar update: family dinner, 2026-09-19 at 10:00, the library.",
+        "classification": {
+            "message_id": "MSG_0001",
+            "category": "Meeting or Event",
+            "confidence": 0.9,
+            "reason": "Scheduling keywords detected."
+        },
+        "extraction": {
+            "item_id": "EVENT_MSG_0001",
+            "type": "event",
+            "title": "For today: Calendar update: family...",
+            "description": "For today: Calendar update: family dinner, 2026-09-19 at 10:00, the library.",
+            "deadline": "2026-09-19",
+            "time": null,
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0001"
+        },
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0002",
+        "original_message_masked": "Can you review the privacy checklist before 2026-09-09?",
+        "classification": {
+            "message_id": "MSG_0002",
+            "category": "Action Required",
+            "confidence": 0.88,
+            "reason": "Imperative verbs/tasks detected."
+        },
+        "extraction": {
+            "item_id": "TASK_MSG_0002",
+            "type": "task",
+            "title": "Can you review the privacy...",
+            "description": "Can you review the privacy checklist before 2026-09-09?",
+            "deadline": "2026-09-09",
+            "time": null,
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0002"
+        },
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0003",
+        "original_message_masked": "FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:00 in the city clinic.",
+        "classification": {
+            "message_id": "MSG_0003",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0004",
+        "original_message_masked": "One more thing: The training material is on the portal.",
+        "classification": {
+            "message_id": "MSG_0004",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0005",
+        "original_message_masked": "Hi, My home address is 42 Lake View Road, Chennai-45.",
+        "classification": {
+            "message_id": "MSG_0005",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0006",
+        "original_message_masked": "Important: The laptop battery is fully charged.",
+        "classification": {
+            "message_id": "MSG_0006",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0007",
+        "original_message_masked": "For today: Please reply to the client email by 2026-09-04.",
+        "classification": {
+            "message_id": "MSG_0007",
+            "category": "Action Required",
+            "confidence": 0.88,
+            "reason": "Imperative verbs/tasks detected."
+        },
+        "extraction": {
+            "item_id": "TASK_MSG_0007",
+            "type": "task",
+            "title": "For today: Please reply to...",
+            "description": "For today: Please reply to the client email by 2026-09-04.",
+            "deadline": "2026-09-04",
+            "time": null,
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0007"
+        },
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0009",
+        "original_message_masked": "For my profile, my emergency contact is my brother.",
+        "classification": {
+            "message_id": "MSG_0009",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0012",
+        "original_message_masked": "FYI: I will send the login details separately.",
+        "classification": {
+            "message_id": "MSG_0012",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0013",
+        "original_message_masked": "One more thing: My card number is [MASKED_BANK_DETAILS]-92.",
+        "classification": {
+            "message_id": "MSG_0013",
+            "category": "Sensitive Information",
+            "confidence": 0.95,
+            "reason": "Detected high-risk information: bank_details"
+        },
+        "extraction": null,
+        "sensitive_info": {
+            "message_id": "MSG_0013",
+            "sensitivity_type": "bank_details",
+            "risk": "high",
+            "masked_text": "One more thing: My card number is [MASKED_BANK_DETAILS]-92.",
+            "recommended_action": "do_not_store"
+        }
+    },
+    {
+        "message_id": "MSG_0014",
+        "original_message_masked": "Can you help? Special festival discount on clothing. Use code SAVE17.",
+        "classification": {
+            "message_id": "MSG_0014",
+            "category": "Promotional",
+            "confidence": 0.92,
+            "reason": "Marketing/sales terms detected."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0015",
+        "original_message_masked": "Please note: Flash sale on laptops starts at 6 PM. Use code SAVE23.",
+        "classification": {
+            "message_id": "MSG_0015",
+            "category": "Action Required",
+            "confidence": 0.88,
+            "reason": "Imperative verbs/tasks detected."
+        },
+        "extraction": {
+            "item_id": "TASK_MSG_0015",
+            "type": "task",
+            "title": "Please note: Flash sale on...",
+            "description": "Please note: Flash sale on laptops starts at 6 PM. Use code SAVE23.",
+            "deadline": null,
+            "time": "6 PM",
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0015"
+        },
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0016",
+        "original_message_masked": "Just checking\u2014Remember that i drink coffee without sugar.",
+        "classification": {
+            "message_id": "MSG_0016",
+            "category": "General Information",
+            "confidence": 0.6,
+            "reason": "No strong matching categories."
+        },
+        "extraction": null,
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0024",
+        "original_message_masked": "Just checking\u2014I might prefer evening meetings now.",
+        "classification": {
+            "message_id": "MSG_0024",
+            "category": "Meeting or Event",
+            "confidence": 0.9,
+            "reason": "Scheduling keywords detected."
+        },
+        "extraction": {
+            "item_id": "EVENT_MSG_0024",
+            "type": "event",
+            "title": "Just checking\u2014I might prefer evening...",
+            "description": "Just checking\u2014I might prefer evening meetings now.",
+            "deadline": null,
+            "time": null,
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0024"
+        },
+        "sensitive_info": null
+    },
+    {
+        "message_id": "MSG_0037",
+        "original_message_masked": "One more thing: The review could be Friday afternoon.",
+        "classification": {
+            "message_id": "MSG_0037",
+            "category": "Action Required",
+            "confidence": 0.88,
+            "reason": "Imperative verbs/tasks detected."
+        },
+        "extraction": {
+            "item_id": "TASK_MSG_0037",
+            "type": "task",
+            "title": "One more thing: The review...",
+            "description": "One more thing: The review could be Friday afternoon.",
+            "deadline": null,
+            "time": null,
+            "person": null,
+            "priority": "medium",
+            "source_message_id": "MSG_0037"
+        },
+        "sensitive_info": null
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "message_id": "MSG_0013",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "One more thing: My card number is [MASKED_BANK_DETAILS]-92.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0086",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Use [MASKED_PASSWORD] to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0095",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Please note: Use [MASKED_PASSWORD]-11 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0140",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Can you help? Use [MASKED_PASSWORD]-81 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0254",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "For today: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0257",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "FYI: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0267",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Please note: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0344",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Hi, Use [MASKED_PASSWORD]-41 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0346",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Quick update: Use [MASKED_PASSWORD]-21 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0352",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Can you help? Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0367",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Hi, My card number is [MASKED_BANK_DETAILS]-42.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0376",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "For today: Use [MASKED_PASSWORD]-31 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0397",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Just checking\u2014Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0419",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Quick update: My card number is [MASKED_BANK_DETAILS]-22.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0471",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "FYI: Use [MASKED_PASSWORD]-71 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0610",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Just checking\u2014My card number is [MASKED_BANK_DETAILS]-52.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0642",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Important: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0649",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Can you help? My card number is [MASKED_BANK_DETAILS]-82.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0681",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Important: My card number is [MASKED_BANK_DETAILS]-62.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0684",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "For today: My card number is [MASKED_BANK_DETAILS]-32.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0727",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Just checking\u2014Use [MASKED_PASSWORD]-51 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0749",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "Important: Use [MASKED_PASSWORD]-61 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0751",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Hi, Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0777",
+        "sensitivity_type": "passwords",
+        "risk": "critical",
+        "masked_text": "One more thing: Use [MASKED_PASSWORD]-91 to sign in to the test account.",
+        "recommended_action": "do_not_send_to_external_service"
+    },
+    {
+        "message_id": "MSG_0803",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Please note: My card number is [MASKED_BANK_DETAILS]-12.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0812",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "My card number is [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0813",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "FYI: My card number is [MASKED_BANK_DETAILS]-72.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0848",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "Quick update: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0890",
+        "sensitivity_type": "bank_details",
+        "risk": "high",
+        "masked_text": "One more thing: Please note my bank account number [MASKED_BANK_DETAILS].",
+        "recommended_action": "do_not_store"
+    }
+]
