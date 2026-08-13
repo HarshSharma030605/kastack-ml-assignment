@@ -1,6 +1,7 @@
 
 *.csv
 L1_Candidate_Dataset/
+L1_Candidate_Dataset.zip
 messages.csv
 mandatory_ids.csv
 dataset.csv
