@@ -4,9 +4,9 @@
 ---
 
 ## 🔗 Quick Links
-* **Live Cloud-Hosted Demo:** `[INSERT_YOUR_STREAMLIT_URL_HERE]`
-* **Loom Video Demonstration:** `[INSERT_YOUR_LOOM_URL_HERE]`
-* **GitHub Repository:** `[INSERT_YOUR_GITHUB_REPO_URL_HERE]`
+* **Live Cloud-Hosted Demo:** `https://kastack-ml-assignment-b74vm3rwyp2hjqsuam7qye.streamlit.app/`
+* **Loom Video Demonstration:** `https://kastack-ml-assignment-b74vm3rwyp2hjqsuam7qye.streamlit.app/`
+* **GitHub Repository:** `https://github.com/HarshSharma030605/kastack-ml-assignment`
 
 ---
 
