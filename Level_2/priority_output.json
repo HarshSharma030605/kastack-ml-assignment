@@ -1,0 +1,1795 @@
+[
+  {
+    "message_id": "MSG_0901",
+    "item_id": "TASK_MSG_0901",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0902",
+    "item_id": "TASK_MSG_0902",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0903",
+    "item_id": "TASK_MSG_0903",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0904",
+    "item_id": "TASK_MSG_0904",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0905",
+    "item_id": "TASK_MSG_0905",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0906",
+    "item_id": "TASK_MSG_0906",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0907",
+    "item_id": "TASK_MSG_0907",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0908",
+    "item_id": "TASK_MSG_0908",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0909",
+    "item_id": "TASK_MSG_0909",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0910",
+    "item_id": "TASK_MSG_0910",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0911",
+    "item_id": "TASK_MSG_0911",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0912",
+    "item_id": "TASK_MSG_0912",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0913",
+    "item_id": "TASK_MSG_0913",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0914",
+    "item_id": "TASK_MSG_0914",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0915",
+    "item_id": "TASK_MSG_0915",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0916",
+    "item_id": "TASK_MSG_0916",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0917",
+    "item_id": "TASK_MSG_0917",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0918",
+    "item_id": "TASK_MSG_0918",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0919",
+    "item_id": "TASK_MSG_0919",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0920",
+    "item_id": "TASK_MSG_0920",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0921",
+    "item_id": "TASK_MSG_0921",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0922",
+    "item_id": "TASK_MSG_0922",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0923",
+    "item_id": "TASK_MSG_0923",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0924",
+    "item_id": "TASK_MSG_0924",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0925",
+    "item_id": "TASK_MSG_0925",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0926",
+    "item_id": "TASK_MSG_0926",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0927",
+    "item_id": "TASK_MSG_0927",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0928",
+    "item_id": "TASK_MSG_0928",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_0929",
+    "item_id": "TASK_MSG_0929",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0930",
+    "item_id": "TASK_MSG_0930",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0931",
+    "item_id": "TASK_MSG_0931",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0932",
+    "item_id": "TASK_MSG_0932",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0933",
+    "item_id": "TASK_MSG_0933",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0934",
+    "item_id": "TASK_MSG_0934",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0935",
+    "item_id": "TASK_MSG_0935",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0936",
+    "item_id": "TASK_MSG_0936",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0937",
+    "item_id": "TASK_MSG_0937",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0938",
+    "item_id": "TASK_MSG_0938",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0939",
+    "item_id": "TASK_MSG_0939",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0940",
+    "item_id": "TASK_MSG_0940",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0941",
+    "item_id": "TASK_MSG_0941",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0942",
+    "item_id": "TASK_MSG_0942",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0943",
+    "item_id": "TASK_MSG_0943",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0944",
+    "item_id": "TASK_MSG_0944",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0945",
+    "item_id": "TASK_MSG_0945",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0946",
+    "item_id": "TASK_MSG_0946",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0947",
+    "item_id": "TASK_MSG_0947",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0948",
+    "item_id": "TASK_MSG_0948",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0949",
+    "item_id": "TASK_MSG_0949",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "MSG_0950",
+    "item_id": "TASK_MSG_0950",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0951",
+    "item_id": "TASK_MSG_0951",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0952",
+    "item_id": "TASK_MSG_0952",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0953",
+    "item_id": "TASK_MSG_0953",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0954",
+    "item_id": "TASK_MSG_0954",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0955",
+    "item_id": "TASK_MSG_0955",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0956",
+    "item_id": "TASK_MSG_0956",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0957",
+    "item_id": "TASK_MSG_0957",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0958",
+    "item_id": "TASK_MSG_0958",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0959",
+    "item_id": "TASK_MSG_0959",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0960",
+    "item_id": "TASK_MSG_0960",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0961",
+    "item_id": "TASK_MSG_0961",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0962",
+    "item_id": "TASK_MSG_0962",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0963",
+    "item_id": "TASK_MSG_0963",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0964",
+    "item_id": "TASK_MSG_0964",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0965",
+    "item_id": "TASK_MSG_0965",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0966",
+    "item_id": "TASK_MSG_0966",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0967",
+    "item_id": "TASK_MSG_0967",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0968",
+    "item_id": "TASK_MSG_0968",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0969",
+    "item_id": "TASK_MSG_0969",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0970",
+    "item_id": "TASK_MSG_0970",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0971",
+    "item_id": "TASK_MSG_0971",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0972",
+    "item_id": "TASK_MSG_0972",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0973",
+    "item_id": "TASK_MSG_0973",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0974",
+    "item_id": "TASK_MSG_0974",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0975",
+    "item_id": "TASK_MSG_0975",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0976",
+    "item_id": "TASK_MSG_0976",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0977",
+    "item_id": "TASK_MSG_0977",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0978",
+    "item_id": "TASK_MSG_0978",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0979",
+    "item_id": "TASK_MSG_0979",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0980",
+    "item_id": "TASK_MSG_0980",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0981",
+    "item_id": "TASK_MSG_0981",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0982",
+    "item_id": "TASK_MSG_0982",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0983",
+    "item_id": "TASK_MSG_0983",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0984",
+    "item_id": "TASK_MSG_0984",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0985",
+    "item_id": "TASK_MSG_0985",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0986",
+    "item_id": "TASK_MSG_0986",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0987",
+    "item_id": "TASK_MSG_0987",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0988",
+    "item_id": "TASK_MSG_0988",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0989",
+    "item_id": "TASK_MSG_0989",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "MSG_0990",
+    "item_id": "TASK_MSG_0990",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0991",
+    "item_id": "TASK_MSG_0991",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0992",
+    "item_id": "TASK_MSG_0992",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0993",
+    "item_id": "TASK_MSG_0993",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0994",
+    "item_id": "TASK_MSG_0994",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0995",
+    "item_id": "TASK_MSG_0995",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0996",
+    "item_id": "TASK_MSG_0996",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0997",
+    "item_id": "TASK_MSG_0997",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0998",
+    "item_id": "TASK_MSG_0998",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_0999",
+    "item_id": "TASK_MSG_0999",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1000",
+    "item_id": "TASK_MSG_1000",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1001",
+    "item_id": "TASK_MSG_1001",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1002",
+    "item_id": "TASK_MSG_1002",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1003",
+    "item_id": "TASK_MSG_1003",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1004",
+    "item_id": "TASK_MSG_1004",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1005",
+    "item_id": "TASK_MSG_1005",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1006",
+    "item_id": "TASK_MSG_1006",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1007",
+    "item_id": "TASK_MSG_1007",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1008",
+    "item_id": "TASK_MSG_1008",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1009",
+    "item_id": "TASK_MSG_1009",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1010",
+    "item_id": "TASK_MSG_1010",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1011",
+    "item_id": "TASK_MSG_1011",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1012",
+    "item_id": "TASK_MSG_1012",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1013",
+    "item_id": "TASK_MSG_1013",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1014",
+    "item_id": "TASK_MSG_1014",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1015",
+    "item_id": "TASK_MSG_1015",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1016",
+    "item_id": "TASK_MSG_1016",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1017",
+    "item_id": "TASK_MSG_1017",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1018",
+    "item_id": "TASK_MSG_1018",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1019",
+    "item_id": "TASK_MSG_1019",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1020",
+    "item_id": "TASK_MSG_1020",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1021",
+    "item_id": "TASK_MSG_1021",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1022",
+    "item_id": "TASK_MSG_1022",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1023",
+    "item_id": "TASK_MSG_1023",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1024",
+    "item_id": "TASK_MSG_1024",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1025",
+    "item_id": "TASK_MSG_1025",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1026",
+    "item_id": "TASK_MSG_1026",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1027",
+    "item_id": "TASK_MSG_1027",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1028",
+    "item_id": "TASK_MSG_1028",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1029",
+    "item_id": "TASK_MSG_1029",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1030",
+    "item_id": "TASK_MSG_1030",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1031",
+    "item_id": "TASK_MSG_1031",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1032",
+    "item_id": "TASK_MSG_1032",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1033",
+    "item_id": "TASK_MSG_1033",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1034",
+    "item_id": "TASK_MSG_1034",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1035",
+    "item_id": "TASK_MSG_1035",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "MSG_1036",
+    "item_id": "TASK_MSG_1036",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1037",
+    "item_id": "TASK_MSG_1037",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1038",
+    "item_id": "TASK_MSG_1038",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1039",
+    "item_id": "TASK_MSG_1039",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1040",
+    "item_id": "TASK_MSG_1040",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1041",
+    "item_id": "TASK_MSG_1041",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1042",
+    "item_id": "TASK_MSG_1042",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1043",
+    "item_id": "TASK_MSG_1043",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1044",
+    "item_id": "TASK_MSG_1044",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1045",
+    "item_id": "TASK_MSG_1045",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1046",
+    "item_id": "TASK_MSG_1046",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1047",
+    "item_id": "TASK_MSG_1047",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1048",
+    "item_id": "TASK_MSG_1048",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1049",
+    "item_id": "TASK_MSG_1049",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1050",
+    "item_id": "TASK_MSG_1050",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1051",
+    "item_id": "TASK_MSG_1051",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1052",
+    "item_id": "TASK_MSG_1052",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1053",
+    "item_id": "TASK_MSG_1053",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1054",
+    "item_id": "TASK_MSG_1054",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1055",
+    "item_id": "TASK_MSG_1055",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1056",
+    "item_id": "TASK_MSG_1056",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1057",
+    "item_id": "TASK_MSG_1057",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1058",
+    "item_id": "TASK_MSG_1058",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1059",
+    "item_id": "TASK_MSG_1059",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1060",
+    "item_id": "TASK_MSG_1060",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1061",
+    "item_id": "TASK_MSG_1061",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1062",
+    "item_id": "TASK_MSG_1062",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1063",
+    "item_id": "TASK_MSG_1063",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1064",
+    "item_id": "TASK_MSG_1064",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1065",
+    "item_id": "TASK_MSG_1065",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1066",
+    "item_id": "TASK_MSG_1066",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1067",
+    "item_id": "TASK_MSG_1067",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1068",
+    "item_id": "TASK_MSG_1068",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1069",
+    "item_id": "TASK_MSG_1069",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1070",
+    "item_id": "TASK_MSG_1070",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1071",
+    "item_id": "TASK_MSG_1071",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1072",
+    "item_id": "TASK_MSG_1072",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1073",
+    "item_id": "TASK_MSG_1073",
+    "priority": "low",
+    "reason": "Optional or promotional broadcast.",
+    "signals": [
+      "promotional_or_optional"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1074",
+    "item_id": "TASK_MSG_1074",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1075",
+    "item_id": "TASK_MSG_1075",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1076",
+    "item_id": "TASK_MSG_1076",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1077",
+    "item_id": "TASK_MSG_1077",
+    "priority": "low",
+    "reason": "Optional or promotional broadcast.",
+    "signals": [
+      "promotional_or_optional"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "MSG_1078",
+    "item_id": "TASK_MSG_1078",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1079",
+    "item_id": "TASK_MSG_1079",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "MSG_1080",
+    "item_id": "TASK_MSG_1080",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_001",
+    "item_id": "TASK_DEMO_001",
+    "priority": "critical",
+    "reason": "The task has an imminent tomorrow deadline marked as urgent.",
+    "signals": [
+      "imminent_deadline",
+      "urgent_follow_up"
+    ],
+    "confidence": 0.96
+  },
+  {
+    "message_id": "DEMO_002",
+    "item_id": "TASK_DEMO_002",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "DEMO_003",
+    "item_id": "TASK_DEMO_003",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "DEMO_004",
+    "item_id": "TASK_DEMO_004",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "DEMO_005",
+    "item_id": "TASK_DEMO_005",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_006",
+    "item_id": "TASK_DEMO_006",
+    "priority": "high",
+    "reason": "Conflicting deadline instructions require immediate user verification.",
+    "signals": [
+      "conflicting_deadlines",
+      "action_required"
+    ],
+    "confidence": 0.88
+  },
+  {
+    "message_id": "DEMO_007",
+    "item_id": "TASK_DEMO_007",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_008",
+    "item_id": "TASK_DEMO_008",
+    "priority": "low",
+    "reason": "Task or event is completed or cancelled.",
+    "signals": [
+      "terminal_status_update"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "message_id": "DEMO_009",
+    "item_id": "TASK_DEMO_009",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_010",
+    "item_id": "TASK_DEMO_010",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "DEMO_011",
+    "item_id": "TASK_DEMO_011",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "DEMO_012",
+    "item_id": "TASK_DEMO_012",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "DEMO_013",
+    "item_id": "TASK_DEMO_013",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "DEMO_014",
+    "item_id": "TASK_DEMO_014",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_015",
+    "item_id": "TASK_DEMO_015",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_016",
+    "item_id": "TASK_DEMO_016",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_017",
+    "item_id": "TASK_DEMO_017",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_018",
+    "item_id": "TASK_DEMO_018",
+    "priority": "low",
+    "reason": "Optional or promotional broadcast.",
+    "signals": [
+      "promotional_or_optional"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "DEMO_019",
+    "item_id": "TASK_DEMO_019",
+    "priority": "low",
+    "reason": "Optional or promotional broadcast.",
+    "signals": [
+      "promotional_or_optional"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "message_id": "DEMO_020",
+    "item_id": "TASK_DEMO_020",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "DEMO_021",
+    "item_id": "TASK_DEMO_021",
+    "priority": "high",
+    "reason": "Active schedule or actionable task tracking.",
+    "signals": [
+      "active_schedule_change"
+    ],
+    "confidence": 0.87
+  },
+  {
+    "message_id": "DEMO_022",
+    "item_id": "TASK_DEMO_022",
+    "priority": "medium",
+    "reason": "Standard informational task.",
+    "signals": [],
+    "confidence": 0.85
+  },
+  {
+    "message_id": "DEMO_023",
+    "item_id": "TASK_DEMO_023",
+    "priority": "high",
+    "reason": "Conflicting deadline instructions require immediate user verification.",
+    "signals": [
+      "conflicting_deadlines",
+      "action_required"
+    ],
+    "confidence": 0.88
+  },
+  {
+    "message_id": "DEMO_024",
+    "item_id": "TASK_DEMO_024",
+    "priority": "low",
+    "reason": "Sensitive/credential message blocked from task priority escalation.",
+    "signals": [
+      "sensitive_blocked_entity"
+    ],
+    "confidence": 0.99
+  }
+]

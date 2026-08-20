@@ -1,0 +1,1634 @@
+[
+  {
+    "message_id": "MSG_0901",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on review the privacy checklist?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0902",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on reply to the client email; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0903",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to pay the electricity bill.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0904",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on renew the library book?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0905",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on review the model results; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0906",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to confirm the interview slot.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0907",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on email the signed document?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0908",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on update the project tracker; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0909",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to upload the assignment.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0910",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on complete the onboarding form?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0911",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: following up on update the project tracker; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0912",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to complete the Python exercise.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0913",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: can you share an update on complete the onboarding form?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0914",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on call the service centre; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0915",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to review the privacy checklist.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0916",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: can you share an update on complete the onboarding form?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0917",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on renew the library book; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0918",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to email the signed document.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0919",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: can you share an update on renew the library book?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0920",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: following up on renew the library book; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0921",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: please confirm whether you started to review the privacy checklist.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0922",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on reply to the client email?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0923",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on pay the electricity bill; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0924",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to renew the library book.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0925",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on review the model results?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0926",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on confirm the interview slot; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0927",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: please confirm whether you started to email the signed document.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0928",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Can you share an update on update the project tracker?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0929",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Following up on upload the assignment; is it in progress?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0930",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please confirm whether you started to complete the onboarding form.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0931",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: finish the test cases has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0932",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel call the service centre; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0933",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: email the signed document has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0934",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel send the revised presentation; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0935",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: review the model results has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0936",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: you can cancel send the revised presentation; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0937",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: prepare the demo video has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0938",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel complete the Python exercise; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0939",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: call the service centre has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0940",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel send the expense receipt; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0941",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: update: prepare the demo video has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0942",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel update the project tracker; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0943",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: update: call the service centre has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0944",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: you can cancel complete the Python exercise; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0945",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: update: prepare the demo video has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0946",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: you can cancel call the service centre; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0947",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: update: finish the test cases has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0948",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "You can cancel verify the dataset labels; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0949",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Update: submit the weekly report has been completed successfully.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0950",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: you can cancel call the service centre; it is no longer required.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0951",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The family dinner has been moved to 2026-09-29 at 10:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0952",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The mentor catch-up has been moved to 2026-09-30 at 11:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0953",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The internship orientation has been moved to 2026-10-01 at 12:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0954",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The team stand-up has been moved to 2026-10-02 at 13:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0955",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The internship orientation has been moved to 2026-10-03 at 14:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0956",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The study-group session has been moved to 2026-10-04 at 15:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0957",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The client discussion has been moved to 2026-10-05 at 16:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0958",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The family dinner has been moved to 2026-10-06 at 10:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0959",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The product demo has been moved to 2026-10-07 at 11:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0960",
+    "sensitivity_type": "personal_health",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "The doctor appointment has been moved to 2026-10-08 at 12:00. Please use the new schedule.",
+    "reason": "Health/medical information requires user confirmation."
+  },
+  {
+    "message_id": "MSG_0961",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The client discussion has been moved to 2026-10-09 at 13:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0962",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The AI workshop has been moved to 2026-10-10 at 14:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0963",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The project review has been moved to 2026-09-29 at 15:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0964",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The AI workshop has been moved to 2026-09-30 at 16:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0965",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The product demo has been moved to 2026-10-01 at 10:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0966",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The placement briefing has been moved to 2026-10-02 at 11:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0967",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The sprint planning has been moved to 2026-10-03 at 12:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0968",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The technical interview has been moved to 2026-10-04 at 13:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0969",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The mentor catch-up has been moved to 2026-10-05 at 14:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0970",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The placement briefing has been moved to 2026-10-06 at 15:00. Please use the new schedule.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0971",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to share the meeting notes is now 2026-09-27, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0972",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that confirm the interview slot is due on 2026-09-28, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0973",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to review the model results is now 2026-09-29, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0974",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that review the model results is due on 2026-09-30, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0975",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to renew the library book is now 2026-10-01, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0976",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that confirm the interview slot is due on 2026-10-02, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0977",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to prepare the demo video is now 2026-09-27, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0978",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that submit the weekly report is due on 2026-09-28, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0979",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to finish the test cases is now 2026-09-29, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0980",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that review the privacy checklist is due on 2026-09-30, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0981",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to send the expense receipt is now 2026-10-01, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0982",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: please note that confirm the interview slot is due on 2026-10-02, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0983",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to finish the test cases is now 2026-09-27, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0984",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that verify the dataset labels is due on 2026-09-28, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0985",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to send the revised presentation is now 2026-09-29, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0986",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that renew the library book is due on 2026-09-30, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0987",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to complete the Python exercise is now 2026-10-01, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0988",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that call the service centre is due on 2026-10-02, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0989",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to back up the project files is now 2026-09-27, earlier than previously planned. Treat this as urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0990",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please note that pay the electricity bill is due on 2026-09-28, although the earlier message listed another date.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0991",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Any progress on the item concerning the assignment?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0992",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please check the latest status of share the meeting notes.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0993",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The work we discussed about call the service centre still needs attention.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0994",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Has the reply to the client email item been handled yet?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0995",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "I am referring to our earlier request about finish the test cases.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0996",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Any progress on the item concerning update the project tracker?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0997",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please check the latest status of reply to the client email.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0998",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The work we discussed about the model results still needs attention.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_0999",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Has the the revised presentation item been handled yet?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1000",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "I am referring to our earlier request about email the signed document.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1001",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Any progress on the item concerning back up the project files?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1002",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Please check the latest status of confirm the interview slot.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1003",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The work we discussed about the revised presentation still needs attention.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1004",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Has the the onboarding form item been handled yet?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1005",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "I am referring to our earlier request about back up the project files.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1006",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: any progress on the item concerning the assignment?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1007",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: please check the latest status of share the meeting notes.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1008",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: the work we discussed about call the service centre still needs attention.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1009",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: has the reply to the client email item been handled yet?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1010",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: i am referring to our earlier request about finish the test cases.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1011",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: any progress on the item concerning update the project tracker?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1012",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: please check the latest status of reply to the client email.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1013",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: the work we discussed about the model results still needs attention.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1014",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: has the the revised presentation item been handled yet?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1015",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: i am referring to our earlier request about email the signed document.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1016",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new prepare the offline inference demo session is scheduled for 2026-09-30 at 10:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1017",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: compare two embedding models by 2026-10-01.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1018",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: document privacy-routing decisions by 2026-10-02.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1019",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: create a latency chart by 2026-10-03.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1020",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new review the quantization results session is scheduled for 2026-10-04 at 14:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1021",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: test the assistant without internet by 2026-10-05.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1022",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: update the architecture diagram by 2026-10-06.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1023",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: measure memory usage by 2026-10-07.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1024",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new prepare the L2 presentation session is scheduled for 2026-10-08 at 12:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1025",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: validate the mandatory queries by 2026-10-09.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1026",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: prepare the offline inference demo by 2026-09-30.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1027",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: new task: compare two embedding models by 2026-10-01.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1028",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new document privacy-routing decisions session is scheduled for 2026-10-02 at 10:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1029",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: new task: create a latency chart by 2026-10-03.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1030",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: review the quantization results by 2026-10-04.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1031",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: new task: test the assistant without internet by 2026-10-05.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1032",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new update the architecture diagram session is scheduled for 2026-10-06 at 14:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1033",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: new task: measure memory usage by 2026-10-07.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1034",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: prepare the L2 presentation by 2026-10-08.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1035",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: new task: validate the mandatory queries by 2026-10-09.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1036",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Your new OTP is [MASKED]. It expires shortly.",
+    "reason": "Fictional OTP / authentication code detected."
+  },
+  {
+    "message_id": "MSG_1037",
+    "sensitivity_type": "auth_token",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Use access token [MASKED] for the integration.",
+    "reason": "Integration auth token detected."
+  },
+  {
+    "message_id": "MSG_1038",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The test card number is 5555 4444 3333 1111.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1039",
+    "sensitivity_type": "private_address",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "Please deliver it to [MASKED ADDRESS].",
+    "reason": "Physical delivery address requires user confirmation."
+  },
+  {
+    "message_id": "MSG_1040",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Call me on 91234 56789 after the meeting.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1041",
+    "sensitivity_type": "personal_health",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "My private [MASKED HEALTH INFO] mentions a thyroid condition.",
+    "reason": "Health/medical information requires user confirmation."
+  },
+  {
+    "message_id": "MSG_1042",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "The temporary password [MASKED] L2Demo#884.",
+    "reason": "Credential password detected."
+  },
+  {
+    "message_id": "MSG_1043",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "My fictional ID number is ID-L2-77391.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1044",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The sample bank account is 001278903456.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1045",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Save recovery code REC-L2-88-KQ.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1046",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Follow-up: Your new OTP is [MASKED]-B. It expires shortly-B.",
+    "reason": "Fictional OTP / authentication code detected."
+  },
+  {
+    "message_id": "MSG_1047",
+    "sensitivity_type": "auth_token",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Follow-up: Use access token [MASKED] for the integration-B.",
+    "reason": "Integration auth token detected."
+  },
+  {
+    "message_id": "MSG_1048",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: The test card number is 5555 4444 3333 1111-B.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1049",
+    "sensitivity_type": "private_address",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "Follow-up: Please deliver it to [MASKED ADDRESS]-B.",
+    "reason": "Physical delivery address requires user confirmation."
+  },
+  {
+    "message_id": "MSG_1050",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: Call me on 91234 56789 after the meeting-B.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1051",
+    "sensitivity_type": "personal_health",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "Follow-up: My private [MASKED HEALTH INFO] mentions a thyroid condition-B.",
+    "reason": "Health/medical information requires user confirmation."
+  },
+  {
+    "message_id": "MSG_1052",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Follow-up: The temporary password [MASKED] L2Demo#884-B.",
+    "reason": "Credential password detected."
+  },
+  {
+    "message_id": "MSG_1053",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: My fictional ID number is ID-L2-77391-B.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1054",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: The sample bank account is 001278903456-B.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1055",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: Save recovery code REC-L2-88-KQ-B.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1056",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The report might already be done, but I am not completely sure.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1057",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "We may move the meeting, I will confirm later.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1058",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline could be tomorrow or Monday; please wait for confirmation.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1059",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Maya said someone probably handled the task.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1060",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "This may no longer be urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1061",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: the report might already be done, but I am not completely sure.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1062",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: we may move the meeting, I will confirm later.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1063",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: the deadline could be tomorrow or Monday; please wait for confirmation.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1064",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: maya said someone probably handled the task.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1065",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Follow-up: this may no longer be urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1066",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: the report might already be done, but I am not completely sure.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1067",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: we may move the meeting, I will confirm later.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1068",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: the deadline could be tomorrow or Monday; please wait for confirmation.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1069",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: maya said someone probably handled the task.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1070",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Additional update: this may no longer be urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1071",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The office cafeteria menu has been updated.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1072",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new wallpaper is available in the employee portal.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1073",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The weekend newsletter is ready.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1074",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The training room lights were replaced.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1075",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The community channel has a new banner.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1076",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The lobby display will restart tonight.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1077",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The optional webinar recording is available.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1078",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The office plants were moved upstairs.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1079",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The help page has a new colour theme.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "MSG_1080",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The monthly bulletin has been published.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_001",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline to confirm the interview slot is now tomorrow at 10 AM. This is urgent.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_002",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Confirmed: email the signed document has been completed.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_003",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Cancel update the project tracker; it is no longer needed.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_004",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Any update on upload the assignment?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_005",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Has the material for our earlier model-results review been handled?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_006",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "One message says Friday, but the latest instruction says update the project tracker is due on 2026-10-06.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_007",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The internship orientation has moved to 2026-10-07 at 15:00.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_008",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The team stand-up has been cancelled.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_009",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The date for internship orientation stays the same, but the time is now 17:30.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_010",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "New task: test the optimized assistant in offline mode by 2026-10-09.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_011",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "A new latency-review meeting is scheduled for 2026-10-08 at 11:00 on Google Meet.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_012",
+    "sensitivity_type": "one_time_password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Your fictional OTP is [MASKED]. Do not share it.",
+    "reason": "Fictional OTP / authentication code detected."
+  },
+  {
+    "message_id": "DEMO_013",
+    "sensitivity_type": "password",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Use temporary password [MASKED] for the sample account.",
+    "reason": "Credential password detected."
+  },
+  {
+    "message_id": "DEMO_014",
+    "sensitivity_type": "private_address",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "Deliver the demo device to [MASKED ADDRESS].",
+    "reason": "Physical delivery address requires user confirmation."
+  },
+  {
+    "message_id": "DEMO_015",
+    "sensitivity_type": "personal_health",
+    "risk": "medium",
+    "routing_decision": "ask_for_confirmation",
+    "masked_text": "My private [MASKED HEALTH INFO] mentions a [MASKED HEALTH INFO].",
+    "reason": "Health/medical information requires user confirmation."
+  },
+  {
+    "message_id": "DEMO_016",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Confirm the interview slot might already be finished, but I cannot confirm it.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_017",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "We may move the internship orientation; I will confirm the schedule later.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_018",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The optional community newsletter is available.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_019",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Save 30% on an optional online course this weekend.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_020",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline for upload the assignment has been extended to 2026-10-20.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_021",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "This is another status request about complete the onboarding form, not a new task.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_022",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "Was the compliance form approved by the finance director?",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_023",
+    "sensitivity_type": null,
+    "risk": "low",
+    "routing_decision": "processed_locally",
+    "masked_text": "The deadline may be Monday, or it may be Wednesday. Wait for the official update.",
+    "reason": "Safe message with no sensitive private entities."
+  },
+  {
+    "message_id": "DEMO_024",
+    "sensitivity_type": "auth_token",
+    "risk": "high",
+    "routing_decision": "blocked",
+    "masked_text": "Integration token: [MASKED] Use it only in the local test.",
+    "reason": "Integration auth token detected."
+  }
+]

@@ -1,0 +1,558 @@
+{
+  "GROUP_001": {
+    "group_id": "GROUP_001",
+    "title": "Review Privacy Checklist",
+    "related_message_ids": [
+      "MSG_0901",
+      "MSG_0915",
+      "MSG_0921",
+      "MSG_0980"
+    ],
+    "status": "in progress",
+    "latest_deadline": "2026-09-30",
+    "timeline": [
+      {
+        "msg_id": "MSG_0901",
+        "timestamp": "2026-09-26 09:00:00",
+        "text": "Can you share an update on review the privacy checklist?"
+      },
+      {
+        "msg_id": "MSG_0915",
+        "timestamp": "2026-09-26 21:22:00",
+        "text": "Please confirm whether you started to review the privacy checklist."
+      },
+      {
+        "msg_id": "MSG_0921",
+        "timestamp": "2026-09-27 02:40:00",
+        "text": "Follow-up: please confirm whether you started to review the privacy checklist."
+      },
+      {
+        "msg_id": "MSG_0980",
+        "timestamp": "2026-09-29 06:47:00",
+        "text": "Please note that review the privacy checklist is due on 2026-09-30, although the earlier message listed another date."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_002": {
+    "group_id": "GROUP_002",
+    "title": "Reply to Client Email",
+    "related_message_ids": [
+      "MSG_0902",
+      "MSG_0922",
+      "MSG_0994",
+      "MSG_0997",
+      "MSG_1009",
+      "MSG_1012"
+    ],
+    "status": "in progress",
+    "latest_deadline": null,
+    "timeline": [
+      {
+        "msg_id": "MSG_0902",
+        "timestamp": "2026-09-26 09:53:00",
+        "text": "Following up on reply to the client email; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0922",
+        "timestamp": "2026-09-27 03:33:00",
+        "text": "Can you share an update on reply to the client email?"
+      },
+      {
+        "msg_id": "MSG_0994",
+        "timestamp": "2026-09-29 19:09:00",
+        "text": "Has the reply to the client email item been handled yet?"
+      },
+      {
+        "msg_id": "MSG_0997",
+        "timestamp": "2026-09-29 21:48:00",
+        "text": "Please check the latest status of reply to the client email."
+      },
+      {
+        "msg_id": "MSG_1009",
+        "timestamp": "2026-09-30 08:24:00",
+        "text": "Follow-up: has the reply to the client email item been handled yet?"
+      },
+      {
+        "msg_id": "MSG_1012",
+        "timestamp": "2026-09-30 11:03:00",
+        "text": "Follow-up: please check the latest status of reply to the client email."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_003": {
+    "group_id": "GROUP_003",
+    "title": "Pay Electricity Bill",
+    "related_message_ids": [
+      "MSG_0903",
+      "MSG_0923",
+      "MSG_0990"
+    ],
+    "status": "in progress",
+    "latest_deadline": "2026-09-28",
+    "timeline": [
+      {
+        "msg_id": "MSG_0903",
+        "timestamp": "2026-09-26 10:46:00",
+        "text": "Please confirm whether you started to pay the electricity bill."
+      },
+      {
+        "msg_id": "MSG_0923",
+        "timestamp": "2026-09-27 04:26:00",
+        "text": "Following up on pay the electricity bill; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0990",
+        "timestamp": "2026-09-29 15:37:00",
+        "text": "Please note that pay the electricity bill is due on 2026-09-28, although the earlier message listed another date."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_004": {
+    "group_id": "GROUP_004",
+    "title": "Renew Library Book",
+    "related_message_ids": [
+      "MSG_0904",
+      "MSG_0917",
+      "MSG_0919",
+      "MSG_0920",
+      "MSG_0924",
+      "MSG_0975",
+      "MSG_0986"
+    ],
+    "status": "in progress",
+    "latest_deadline": "2026-09-30",
+    "timeline": [
+      {
+        "msg_id": "MSG_0904",
+        "timestamp": "2026-09-26 11:39:00",
+        "text": "Can you share an update on renew the library book?"
+      },
+      {
+        "msg_id": "MSG_0917",
+        "timestamp": "2026-09-26 23:08:00",
+        "text": "Following up on renew the library book; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0919",
+        "timestamp": "2026-09-27 00:54:00",
+        "text": "Follow-up: can you share an update on renew the library book?"
+      },
+      {
+        "msg_id": "MSG_0920",
+        "timestamp": "2026-09-27 01:47:00",
+        "text": "Follow-up: following up on renew the library book; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0924",
+        "timestamp": "2026-09-27 05:19:00",
+        "text": "Please confirm whether you started to renew the library book."
+      },
+      {
+        "msg_id": "MSG_0975",
+        "timestamp": "2026-09-29 02:22:00",
+        "text": "The deadline to renew the library book is now 2026-10-01, earlier than previously planned. Treat this as urgent."
+      },
+      {
+        "msg_id": "MSG_0986",
+        "timestamp": "2026-09-29 12:05:00",
+        "text": "Please note that renew the library book is due on 2026-09-30, although the earlier message listed another date."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_005": {
+    "group_id": "GROUP_005",
+    "title": "Model Results Review",
+    "related_message_ids": [
+      "MSG_0905",
+      "MSG_0925",
+      "MSG_0935",
+      "MSG_0973",
+      "MSG_0974",
+      "DEMO_005"
+    ],
+    "status": "completed",
+    "latest_deadline": "2026-09-30",
+    "timeline": [
+      {
+        "msg_id": "MSG_0905",
+        "timestamp": "2026-09-26 12:32:00",
+        "text": "Following up on review the model results; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0925",
+        "timestamp": "2026-09-27 06:12:00",
+        "text": "Can you share an update on review the model results?"
+      },
+      {
+        "msg_id": "MSG_0935",
+        "timestamp": "2026-09-27 15:02:00",
+        "text": "Update: review the model results has been completed successfully."
+      },
+      {
+        "msg_id": "MSG_0973",
+        "timestamp": "2026-09-29 00:36:00",
+        "text": "The deadline to review the model results is now 2026-09-29, earlier than previously planned. Treat this as urgent."
+      },
+      {
+        "msg_id": "MSG_0974",
+        "timestamp": "2026-09-29 01:29:00",
+        "text": "Please note that review the model results is due on 2026-09-30, although the earlier message listed another date."
+      },
+      {
+        "msg_id": "DEMO_005",
+        "timestamp": "2026-10-04 12:25:00",
+        "text": "Has the material for our earlier model-results review been handled?"
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_006": {
+    "group_id": "GROUP_006",
+    "title": "Confirm Interview Slot",
+    "related_message_ids": [
+      "MSG_0906",
+      "MSG_0926",
+      "MSG_0972",
+      "MSG_0976",
+      "MSG_0982",
+      "MSG_1002",
+      "DEMO_001",
+      "DEMO_016"
+    ],
+    "status": "unclear",
+    "latest_deadline": "2026-10-05 10:00:00",
+    "timeline": [
+      {
+        "msg_id": "MSG_0906",
+        "timestamp": "2026-09-26 13:25:00",
+        "text": "Please confirm whether you started to confirm the interview slot."
+      },
+      {
+        "msg_id": "MSG_0926",
+        "timestamp": "2026-09-27 07:05:00",
+        "text": "Following up on confirm the interview slot; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0972",
+        "timestamp": "2026-09-28 23:43:00",
+        "text": "Please note that confirm the interview slot is due on 2026-09-28, although the earlier message listed another date."
+      },
+      {
+        "msg_id": "MSG_0976",
+        "timestamp": "2026-09-29 03:15:00",
+        "text": "Please note that confirm the interview slot is due on 2026-10-02, although the earlier message listed another date."
+      },
+      {
+        "msg_id": "MSG_0982",
+        "timestamp": "2026-09-29 08:33:00",
+        "text": "Follow-up: please note that confirm the interview slot is due on 2026-10-02, although the earlier message listed another date."
+      },
+      {
+        "msg_id": "MSG_1002",
+        "timestamp": "2026-09-30 02:13:00",
+        "text": "Please check the latest status of confirm the interview slot."
+      },
+      {
+        "msg_id": "DEMO_001",
+        "timestamp": "2026-10-04 09:41:00",
+        "text": "The deadline to confirm the interview slot is now tomorrow at 10 AM. This is urgent."
+      },
+      {
+        "msg_id": "DEMO_016",
+        "timestamp": "2026-10-04 19:56:00",
+        "text": "Confirm the interview slot might already be finished, but I cannot confirm it."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_007": {
+    "group_id": "GROUP_007",
+    "title": "Email Signed Document",
+    "related_message_ids": [
+      "MSG_0907",
+      "MSG_0918",
+      "MSG_0927",
+      "MSG_0933",
+      "MSG_1000",
+      "MSG_1015",
+      "DEMO_002"
+    ],
+    "status": "completed",
+    "latest_deadline": null,
+    "timeline": [
+      {
+        "msg_id": "MSG_0907",
+        "timestamp": "2026-09-26 14:18:00",
+        "text": "Can you share an update on email the signed document?"
+      },
+      {
+        "msg_id": "MSG_0918",
+        "timestamp": "2026-09-27 00:01:00",
+        "text": "Please confirm whether you started to email the signed document."
+      },
+      {
+        "msg_id": "MSG_0927",
+        "timestamp": "2026-09-27 07:58:00",
+        "text": "Follow-up: please confirm whether you started to email the signed document."
+      },
+      {
+        "msg_id": "MSG_0933",
+        "timestamp": "2026-09-27 13:16:00",
+        "text": "Update: email the signed document has been completed successfully."
+      },
+      {
+        "msg_id": "MSG_1000",
+        "timestamp": "2026-09-30 00:27:00",
+        "text": "I am referring to our earlier request about email the signed document."
+      },
+      {
+        "msg_id": "MSG_1015",
+        "timestamp": "2026-09-30 13:42:00",
+        "text": "Follow-up: i am referring to our earlier request about email the signed document."
+      },
+      {
+        "msg_id": "DEMO_002",
+        "timestamp": "2026-10-04 10:22:00",
+        "text": "Confirmed: email the signed document has been completed."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_008": {
+    "group_id": "GROUP_008",
+    "title": "Update Project Tracker",
+    "related_message_ids": [
+      "MSG_0908",
+      "MSG_0911",
+      "MSG_0928",
+      "MSG_0942",
+      "MSG_0996",
+      "MSG_1011",
+      "DEMO_003",
+      "DEMO_006"
+    ],
+    "status": "cancelled",
+    "latest_deadline": "2026-10-06",
+    "timeline": [
+      {
+        "msg_id": "MSG_0908",
+        "timestamp": "2026-09-26 15:11:00",
+        "text": "Following up on update the project tracker; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0911",
+        "timestamp": "2026-09-26 17:50:00",
+        "text": "Follow-up: following up on update the project tracker; is it in progress?"
+      },
+      {
+        "msg_id": "MSG_0928",
+        "timestamp": "2026-09-27 08:51:00",
+        "text": "Can you share an update on update the project tracker?"
+      },
+      {
+        "msg_id": "MSG_0942",
+        "timestamp": "2026-09-27 21:13:00",
+        "text": "You can cancel update the project tracker; it is no longer required."
+      },
+      {
+        "msg_id": "MSG_0996",
+        "timestamp": "2026-09-29 20:55:00",
+        "text": "Any progress on the item concerning update the project tracker?"
+      },
+      {
+        "msg_id": "MSG_1011",
+        "timestamp": "2026-09-30 10:10:00",
+        "text": "Follow-up: any progress on the item concerning update the project tracker?"
+      },
+      {
+        "msg_id": "DEMO_003",
+        "timestamp": "2026-10-04 11:03:00",
+        "text": "Cancel update the project tracker; it is no longer needed."
+      },
+      {
+        "msg_id": "DEMO_006",
+        "timestamp": "2026-10-04 13:06:00",
+        "text": "One message says Friday, but the latest instruction says update the project tracker is due on 2026-10-06."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_009": {
+    "group_id": "GROUP_009",
+    "title": "Upload Assignment",
+    "related_message_ids": [
+      "MSG_0909",
+      "MSG_0929",
+      "DEMO_004",
+      "DEMO_020"
+    ],
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-20",
+    "timeline": [
+      {
+        "msg_id": "MSG_0909",
+        "timestamp": "2026-09-26 16:04:00",
+        "text": "Please confirm whether you started to upload the assignment."
+      },
+      {
+        "msg_id": "MSG_0929",
+        "timestamp": "2026-09-27 09:44:00",
+        "text": "Following up on upload the assignment; is it in progress?"
+      },
+      {
+        "msg_id": "DEMO_004",
+        "timestamp": "2026-10-04 11:44:00",
+        "text": "Any update on upload the assignment?"
+      },
+      {
+        "msg_id": "DEMO_020",
+        "timestamp": "2026-10-04 22:40:00",
+        "text": "The deadline for upload the assignment has been extended to 2026-10-20."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_010": {
+    "group_id": "GROUP_010",
+    "title": "Complete Onboarding Form",
+    "related_message_ids": [
+      "MSG_0910",
+      "MSG_0913",
+      "MSG_0916",
+      "MSG_0930",
+      "DEMO_021"
+    ],
+    "status": "in progress",
+    "latest_deadline": null,
+    "timeline": [
+      {
+        "msg_id": "MSG_0910",
+        "timestamp": "2026-09-26 16:57:00",
+        "text": "Can you share an update on complete the onboarding form?"
+      },
+      {
+        "msg_id": "MSG_0913",
+        "timestamp": "2026-09-26 19:36:00",
+        "text": "Follow-up: can you share an update on complete the onboarding form?"
+      },
+      {
+        "msg_id": "MSG_0916",
+        "timestamp": "2026-09-26 22:15:00",
+        "text": "Additional update: can you share an update on complete the onboarding form?"
+      },
+      {
+        "msg_id": "MSG_0930",
+        "timestamp": "2026-09-27 10:37:00",
+        "text": "Please confirm whether you started to complete the onboarding form."
+      },
+      {
+        "msg_id": "DEMO_021",
+        "timestamp": "2026-10-04 23:21:00",
+        "text": "This is another status request about complete the onboarding form, not a new task."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_011": {
+    "group_id": "GROUP_011",
+    "title": "Internship Orientation",
+    "related_message_ids": [
+      "MSG_0953",
+      "MSG_0955",
+      "DEMO_007",
+      "DEMO_009",
+      "DEMO_017"
+    ],
+    "status": "rescheduled",
+    "latest_deadline": "2026-10-07",
+    "timeline": [
+      {
+        "msg_id": "MSG_0953",
+        "timestamp": "2026-09-28 06:56:00",
+        "text": "The internship orientation has been moved to 2026-10-01 at 12:00. Please use the new schedule."
+      },
+      {
+        "msg_id": "MSG_0955",
+        "timestamp": "2026-09-28 08:42:00",
+        "text": "The internship orientation has been moved to 2026-10-03 at 14:00. Please use the new schedule."
+      },
+      {
+        "msg_id": "DEMO_007",
+        "timestamp": "2026-10-04 13:47:00",
+        "text": "The internship orientation has moved to 2026-10-07 at 15:00."
+      },
+      {
+        "msg_id": "DEMO_009",
+        "timestamp": "2026-10-04 15:09:00",
+        "text": "The date for internship orientation stays the same, but the time is now 17:30."
+      },
+      {
+        "msg_id": "DEMO_017",
+        "timestamp": "2026-10-04 20:37:00",
+        "text": "We may move the internship orientation; I will confirm the schedule later."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_012": {
+    "group_id": "GROUP_012",
+    "title": "Team Stand-up",
+    "related_message_ids": [
+      "MSG_0954",
+      "DEMO_008"
+    ],
+    "status": "cancelled",
+    "latest_deadline": "2026-10-02",
+    "timeline": [
+      {
+        "msg_id": "MSG_0954",
+        "timestamp": "2026-09-28 07:49:00",
+        "text": "The team stand-up has been moved to 2026-10-02 at 13:00. Please use the new schedule."
+      },
+      {
+        "msg_id": "DEMO_008",
+        "timestamp": "2026-10-04 14:28:00",
+        "text": "The team stand-up has been cancelled."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_013": {
+    "group_id": "GROUP_013",
+    "title": "Test Optimized Assistant",
+    "related_message_ids": [
+      "DEMO_010"
+    ],
+    "status": "pending",
+    "latest_deadline": "2026-10-09",
+    "timeline": [
+      {
+        "msg_id": "DEMO_010",
+        "timestamp": "2026-10-04 15:50:00",
+        "text": "New task: test the optimized assistant in offline mode by 2026-10-09."
+      }
+    ],
+    "confidence": 0.92
+  },
+  "GROUP_014": {
+    "group_id": "GROUP_014",
+    "title": "Latency Review Meeting",
+    "related_message_ids": [
+      "DEMO_011"
+    ],
+    "status": "pending",
+    "latest_deadline": "2026-10-08",
+    "timeline": [
+      {
+        "msg_id": "DEMO_011",
+        "timestamp": "2026-10-04 16:31:00",
+        "text": "A new latency-review meeting is scheduled for 2026-10-08 at 11:00 on Google Meet."
+      }
+    ],
+    "confidence": 0.92
+  }
+}

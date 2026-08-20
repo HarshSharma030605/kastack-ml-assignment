@@ -5,7 +5,8 @@ L1_Candidate_Dataset.zip
 messages.csv
 mandatory_ids.csv
 dataset.csv
-
+Level 2/L2_Candidate_Dataset/
+Level 2/L2_Candidate_Dataset.zip
 
 __pycache__/
 *.pyc

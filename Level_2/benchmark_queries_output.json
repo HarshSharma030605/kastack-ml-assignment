@@ -1,0 +1,97 @@
+[
+  {
+    "query_id": "DQ01",
+    "query": "Which existing task became critical in the demo data?",
+    "answer": "The task 'Confirm Interview Slot' escalated to critical due to an imminent 24-hour deadline.",
+    "supporting_message_ids": [
+      "DEMO_001"
+    ],
+    "group_id": "GROUP_001",
+    "relevance_score": 0.98,
+    "reason": "DEMO_001 contains urgent keyword and tomorrow morning deadline."
+  },
+  {
+    "query_id": "DQ02",
+    "query": "Which tasks or meetings were completed or cancelled?",
+    "answer": "Completed: 'Email Signed Document' (DEMO_002). Cancelled: 'Update Project Tracker' (DEMO_003) and 'Team Stand-up' (DEMO_008).",
+    "supporting_message_ids": [
+      "DEMO_002",
+      "DEMO_003",
+      "DEMO_008"
+    ],
+    "group_id": "GROUP_002, GROUP_003, GROUP_008",
+    "relevance_score": 0.95,
+    "reason": "Messages contain explicit confirmation and cancellation verbs."
+  },
+  {
+    "query_id": "DQ03",
+    "query": "Which meeting was rescheduled and what is its latest schedule?",
+    "answer": "The 'Internship Orientation' was rescheduled to 2026-10-07 at 17:30.",
+    "supporting_message_ids": [
+      "DEMO_007",
+      "DEMO_009"
+    ],
+    "group_id": "GROUP_007",
+    "relevance_score": 0.96,
+    "reason": "DEMO_007 moved the date to 2026-10-07, and DEMO_009 updated the final time to 17:30."
+  },
+  {
+    "query_id": "DQ04",
+    "query": "Which messages contain conflicting or uncertain deadlines?",
+    "answer": "DEMO_006 has conflicting date instructions (Friday vs 2026-10-06), and DEMO_023 has uncertain days (Monday vs Wednesday).",
+    "supporting_message_ids": [
+      "DEMO_006",
+      "DEMO_023"
+    ],
+    "group_id": "GROUP_003",
+    "relevance_score": 0.93,
+    "reason": "Explicit conflicting temporal markers in message body."
+  },
+  {
+    "query_id": "DQ05",
+    "query": "Which demo messages must be blocked from external processing?",
+    "answer": "Messages containing raw credentials/tokens are blocked: DEMO_012, DEMO_013, DEMO_024.",
+    "supporting_message_ids": [
+      "DEMO_012",
+      "DEMO_013",
+      "DEMO_024"
+    ],
+    "group_id": null,
+    "relevance_score": 0.99,
+    "reason": "Contains OTP (DEMO_012), password (DEMO_013), and integration auth token (DEMO_024)."
+  },
+  {
+    "query_id": "DQ06",
+    "query": "Which message requires confirmation before processing?",
+    "answer": "DEMO_014 (physical delivery address) and DEMO_015 (private medical details) require confirmation.",
+    "supporting_message_ids": [
+      "DEMO_014",
+      "DEMO_015"
+    ],
+    "group_id": null,
+    "relevance_score": 0.97,
+    "reason": "High PII risk requiring user consent prior to downstream pipeline execution."
+  },
+  {
+    "query_id": "DQ07",
+    "query": "What is the latest status of the task referenced by DEMO_016?",
+    "answer": "The status is 'Unclear'. The message notes it might be finished but explicitly states it cannot be confirmed.",
+    "supporting_message_ids": [
+      "DEMO_016"
+    ],
+    "group_id": "GROUP_001",
+    "relevance_score": 0.91,
+    "reason": "Explicit uncertainty marker 'cannot confirm it' in message body."
+  },
+  {
+    "query_id": "DQ08",
+    "query": "Was the compliance form approved by the finance director?",
+    "answer": "Insufficient evidence available in dataset to determine if the compliance form was approved.",
+    "supporting_message_ids": [
+      "DEMO_022"
+    ],
+    "group_id": null,
+    "relevance_score": 0.2,
+    "reason": "DEMO_022 only asks the question; no answering or approving record exists."
+  }
+]
